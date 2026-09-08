@@ -1,0 +1,119 @@
+{
+  "land": {
+    "iso2": "BY",
+    "nameDe": "Weißrussland",
+    "plateLetter": "BY",
+    "flagStyle": "weissrussland",
+    "continent": "europa",
+    "sortOrder": 4
+  },
+  "quelle": "Kfz-Kennzeichen (Belarus)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 8,
+  "plates": [
+    {
+      "code": "0",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Innen- und Verteidigungsministerium",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "1",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Breszkaja Woblasz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "2",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wizebskaja Woblasz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "3",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Homelskaja Woblasz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "4",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hrodsenskaja Woblasz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "5",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Minskaja Woblasz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "6",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mahiljouskaja Woblasz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "7",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Minsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

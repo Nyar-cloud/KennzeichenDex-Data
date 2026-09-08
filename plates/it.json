@@ -1,0 +1,1407 @@
+{
+  "land": {
+    "iso2": "IT",
+    "nameDe": "Italien",
+    "plateLetter": "I",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 21
+  },
+  "quelle": "Kfz-Kennzeichen (Italien)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 107,
+  "plates": [
+    {
+      "code": "AG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Agrigent"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Alessandria"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ancona"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Valle d’Aosta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ascoli Piceno"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AQ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "L’Aquila"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arezzo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asti"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Avellino"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Bari"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergamo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Biella"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belluno"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Benevento"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Bologna"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brindisi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brescia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Barletta-Andria-Trani"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bozen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Cagliari"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Campobasso"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Caserta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chieti"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Caltanissetta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cuneo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Como"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cremona"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cosenza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Catania"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Catanzaro"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Enna"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Forlì-Cesena"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ferrara"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Foggia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Firenze"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fermo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Frosinone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Genova"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gorizia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Grosseto"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Imperia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Isernia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Crotone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lecco"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lecce"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Livorno"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lodi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Latina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lucca"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Monza e Brianza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Macerata"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ME",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Messina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Milano"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mantova"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Modena"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Massa-Carrara"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Matera"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Napoli"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Novara"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nuoro"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oristano"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Palermo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piacenza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Padova"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pescara"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Perugia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pisa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pordenone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Prato"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Parma"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pistoia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pesaro e Urbino"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pavia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Potenza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ravenna"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Reggio Calabria"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reggio Emilia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ragusa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rieti"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Roma Capitale"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rimini"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rovigo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Salerno"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Siena"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sondrio"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "La Spezia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Siracusa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sassari"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sud Sardegna"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Savona"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Taranto"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Teramo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trento"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Torino"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trapani"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Terni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trieste"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Treviso"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "UD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Udine"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Varese"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Verbano-Cusio-Ossola"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vercelli"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Metropolitanstadt Venezia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vicenza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Verona"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Viterbo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vibo Valentia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

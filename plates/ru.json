@@ -1,0 +1,1849 @@
+{
+  "land": {
+    "iso2": "RU",
+    "nameDe": "Russland",
+    "plateLetter": "RUS",
+    "flagStyle": "russland",
+    "continent": "europa",
+    "sortOrder": 19
+  },
+  "quelle": "Kfz-Kennzeichen (Russland)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 141,
+  "plates": [
+    {
+      "code": "01",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Adygeja"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "02",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Baschkortostan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "03",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Burjatien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "04",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Altai"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "05",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Dagestan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "06",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Inguschetien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "07",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Kabardino-Balkarien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "08",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Kalmückien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "09",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Karatschai-Tscherkessien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "10",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Karelien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "11",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Komi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "12",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Mari El"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "13",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Mordwinien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "14",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Sacha (Jakutien)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "15",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Nordossetien-Alanien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "16",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Tatarstan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "17",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Tuwa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "18",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Udmurtien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "19",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Chakassien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "20",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Republik Tschetschenien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "21",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Tschuwaschien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "22",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Altai"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "23",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Krasnodar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "24",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Krasnojarsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "25",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Primorje"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "26",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Stawropol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "27",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Chabarowsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "28",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Amur"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "29",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Archangelsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "30",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Astrachan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "31",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Belgorod"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "32",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Brjansk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "33",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Wladimir"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "34",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Wolgograd"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "35",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Wologda"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "36",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Woronesch"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "37",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Iwanowo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "38",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Irkutsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "39",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kaliningrad (Königsberg)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "40",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kaluga"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "41",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Kamtschatka"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "42",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kemerowo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "43",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kirow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "44",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kostroma"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "45",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kurgan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "46",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kursk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "47",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Leningrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "48",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Lipezk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "49",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Magadan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "50",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "51",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Murmansk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "52",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Nischni Nowgorod"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "53",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Nowgorod"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "54",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Nowosibirsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "55",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Omsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "56",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Orenburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "57",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Orjol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "58",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Pensa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "59",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Perm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "60",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Pskow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "61",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Rostow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "62",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Rjasan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "63",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Samara"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "64",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Saratow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "65",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Sachalin"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "66",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Swerdlowsk (Jekaterinburg)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "67",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Smolensk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "68",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tambow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "69",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Twer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "70",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tomsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "71",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tula"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "72",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tjumen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "73",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Uljanowsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "74",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tscheljabinsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "75",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Transbaikalien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "76",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Jaroslawl"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "77",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "78",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Sankt Petersburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "79",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jüdische Autonome Oblast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "80",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Autonomer Kreis der Aginer Burjaten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "81",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Autonomer Kreis der Komi-Permjaken"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "82",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Krim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "83",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Autonomer Kreis der Nenzen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "84",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Autonomer Kreis Taimyr"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "85",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Autonomer Kreis der Ust-Ordynsker Burjaten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "86",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Autonomer Kreis der Chanten und Mansen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "87",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Autonomer Kreis der Tschuktschen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "88",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Autonomer Kreis der Ewenken"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "89",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Autonomer Kreis der Jamal-Nenzen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "90",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "91",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kaliningrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "92",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Sewastopol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "93",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Krasnodar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "94",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fahrzeuge in Gebieten außerhalb der Grenzen der Russischen Föderation, aber unter Verwaltung des Russischen Innenministeriums (Mitarbeiter am Weltraumbahnhof Baikonur, Friedenstruppe in Abchasien etc.)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "95",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Tschetschenien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "96",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Swerdlowsk (Jekaterinburg)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "97",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "98",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Sankt Petersburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "99",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "102",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Baschkortostan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "113",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Mordwinien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "116",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Tatarstan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "121",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Tschuwaschien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "123",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Krasnodar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "124",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Krasnojarsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "125",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Primorje"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "126",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Stawropol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "134",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Wolgograd"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "136",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Woronesch"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "138",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Irkutsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "142",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kemerowo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "147",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Leningrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "150",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "152",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Nischni Nowgorod"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "154",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Nowosibirsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "159",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Region Perm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "161",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Rostow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "163",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Samara"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "164",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Saratow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "173",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Uljanowsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "174",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tscheljabinsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "177",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "178",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Sankt Petersburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "180",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Donetsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "181",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Luhansk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "184",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Cherson"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "185",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Saporoschje"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "186",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Autonomer Kreis der Chanten und Mansen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "190",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "196",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Swerdlowsk (Jekaterinburg)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "197",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "198",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Sankt Petersburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "199",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "702",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Baschkortostan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "716",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Republik Tatarstan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "750",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "761",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Rostow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "763",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Samara"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "777",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "797",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "799",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Moskau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

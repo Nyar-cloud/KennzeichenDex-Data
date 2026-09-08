@@ -1,0 +1,2394 @@
+{
+  "land": {
+    "iso2": "GR",
+    "nameDe": "Griechenland",
+    "plateLetter": "GR",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 20
+  },
+  "quelle": "Kfz-Kennzeichen (Griechenland)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 183,
+  "plates": [
+    {
+      "code": "HZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Iraklio"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Serres"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dodekanes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Xanthi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Achaia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lasithi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Achaia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Xanthi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ätolien-Akarnanien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lakonia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Phokis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lasithi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Argolis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Achaia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΑΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Achaia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Magnisia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Viotia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika Ost"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika Ost"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika West"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Magnisia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika West"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Magnisia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Viotia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΒΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dodekanes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Evros"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pella"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Euböa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kykladen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kykladen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kykladen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Serres"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lefkada"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΕΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kilkis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zakynthos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zakynthos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen",
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen",
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen",
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika West"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika Ost"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΖΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika Ost"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Iraklio"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Iraklio"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Iraklio"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Imathia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thesprotia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Xanthi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Iraklio"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Iraklio"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fthiotida"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΗΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Imathia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ioannina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ioannina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΙΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Karditsa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kavala"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kefallinia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kozani"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Evrytania",
+        "Kerkyra"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kilkis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Messenien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pieria"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rodopi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Korinthos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kastoria"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΚΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kerkyra"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chalkidiki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Samos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ätolien-Akarnanien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Messenien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lesbos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fthiotida"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Karditsa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pella"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kozani"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Samos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lakonia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lesbos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lesbos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΜΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Evros"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΝΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thessaloniki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Orestiada"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΟΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Florina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Korinthos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rethymno"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preveza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rethymno"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larisa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drama"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Grevena"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dodekanes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larisa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larisa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΡΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dodekanes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΑ",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Taxis (Personenbeförderung)",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kerkyra"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kerkyra"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ätolien-Akarnanien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pieria"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trikala"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Argolis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trikala"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drama"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arkadien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rodopi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chania"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΤΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preveza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΒ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piräus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika West"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika West"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika West"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika Ost"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΥΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Attika Ost"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΑ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Euböa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΕ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΖ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΗ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΙ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chios"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΚ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chalkidiki"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΜ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΝ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chania"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΟ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chios"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΡ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΤ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΥ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ΧΧ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Athen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

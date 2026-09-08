@@ -1,0 +1,562 @@
+{
+  "land": {
+    "iso2": "RO",
+    "nameDe": "Rumänien",
+    "plateLetter": "RO",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 12
+  },
+  "quelle": "Kfz-Kennzeichen (Rumänien)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 42,
+  "plates": [
+    {
+      "code": "AB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Alba"
+      ],
+      "derivation": "Alba Iulia",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Argeș"
+      ],
+      "derivation": "Pitești",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arad"
+      ],
+      "derivation": "Arad",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "B",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Bukarest"
+      ],
+      "derivation": "&nbsp;",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bacău"
+      ],
+      "derivation": "Bacău",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bihor"
+      ],
+      "derivation": "Oradea",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bistrița-Năsăud"
+      ],
+      "derivation": "Bistrița",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brăila"
+      ],
+      "derivation": "Brăila",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Botoșani"
+      ],
+      "derivation": "Botoșani",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brașov"
+      ],
+      "derivation": "Brașov",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Buzău"
+      ],
+      "derivation": "Buzău",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cluj"
+      ],
+      "derivation": "Cluj-Napoca",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Călărași"
+      ],
+      "derivation": "Călărași",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Caraș-Severin"
+      ],
+      "derivation": "Reșița",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Constanța"
+      ],
+      "derivation": "Constanța",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Covasna"
+      ],
+      "derivation": "Sfântu Gheorghe",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dâmbovița"
+      ],
+      "derivation": "Târgoviște",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dolj"
+      ],
+      "derivation": "Craiova",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gorj"
+      ],
+      "derivation": "Târgu Jiu",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Galați"
+      ],
+      "derivation": "Galați",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Giurgiu"
+      ],
+      "derivation": "Giurgiu",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hunedoara"
+      ],
+      "derivation": "Deva",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Harghita"
+      ],
+      "derivation": "Miercurea Ciuc",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ilfov"
+      ],
+      "derivation": "Bukarest",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ialomița"
+      ],
+      "derivation": "Slobozia",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Iași"
+      ],
+      "derivation": "Iași",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mehedinți"
+      ],
+      "derivation": "Drobeta Turnu Severin",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maramureș"
+      ],
+      "derivation": "Baia Mare",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mureș"
+      ],
+      "derivation": "Târgu Mureș",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Neamț"
+      ],
+      "derivation": "Piatra Neamț",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Olt"
+      ],
+      "derivation": "Slatina",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Prahova"
+      ],
+      "derivation": "Ploiești",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sibiu"
+      ],
+      "derivation": "Sibiu",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sălaj"
+      ],
+      "derivation": "Zalău",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Satu Mare"
+      ],
+      "derivation": "Satu Mare",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Suceava"
+      ],
+      "derivation": "Suceava",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tulcea"
+      ],
+      "derivation": "Tulcea",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Timiș"
+      ],
+      "derivation": "Timișoara",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Teleorman"
+      ],
+      "derivation": "Alexandria",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vâlcea"
+      ],
+      "derivation": "Râmnicu Vâlcea",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vrancea"
+      ],
+      "derivation": "Focșani",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vaslui"
+      ],
+      "derivation": "Vaslui",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

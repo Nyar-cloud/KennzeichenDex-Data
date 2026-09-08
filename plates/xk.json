@@ -1,0 +1,107 @@
+{
+  "land": {
+    "iso2": "XK",
+    "nameDe": "Kosovo",
+    "plateLetter": "RKS",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 3
+  },
+  "quelle": "Kfz-Kennzeichen (Kosovo)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 7,
+  "plates": [
+    {
+      "code": "01",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pristina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "02",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mitrovica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "03",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peja"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "04",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Prizren"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "05",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ferizaj"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "06",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjilan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "07",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjakova"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "land": {
+    "iso2": "ME",
+    "nameDe": "Montenegro",
+    "plateLetter": "MNE",
+    "flagStyle": "montenegro",
+    "continent": "europa",
+    "sortOrder": 7
+  },
+  "quelle": "Kfz-Kennzeichen (Montenegro)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 27,
+  "plates": [
+    {
+      "code": "AN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Andrijevica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Berane"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Budva"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bijelo Polje"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cetinje"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Danilovgrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gusinje"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Herceg Novi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IG",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Ivangrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kolašin"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kotor"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mojkovac"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nikšić"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Podgorica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Plav"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Petnjica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pljevlja"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PŽ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Plužine"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rožaje"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ŠN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Šavnik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TG",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Titograd"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tivat"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tuzi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "UL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ulcinj"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ŽB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Žabljak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zeta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

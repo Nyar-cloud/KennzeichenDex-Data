@@ -1,0 +1,354 @@
+{
+  "land": {
+    "iso2": "CH",
+    "nameDe": "Schweiz",
+    "plateLetter": "CH",
+    "flagStyle": "schweiz",
+    "continent": "europa",
+    "sortOrder": 6
+  },
+  "quelle": "Kontrollschild (Schweiz)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 26,
+  "plates": [
+    {
+      "code": "AG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Aargau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Appenzell Innerrhoden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Appenzell Ausserrhoden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bern"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Basel-Landschaft"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Basel-Stadt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Freiburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Genf"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glarus"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Graubünden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "JU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jura"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luzern"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Neuenburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nidwalden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Obwalden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "St. Gallen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Schaffhausen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Solothurn"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Schwyz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Thurgau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tessin"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "UR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Uri"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Waadt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wallis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zug"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zürich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

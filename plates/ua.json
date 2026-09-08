@@ -1,0 +1,731 @@
+{
+  "land": {
+    "iso2": "UA",
+    "nameDe": "Ukraine",
+    "plateLetter": "UA",
+    "flagStyle": "ukraine",
+    "continent": "europa",
+    "sortOrder": 17
+  },
+  "quelle": "Kfz-Kennzeichen (Ukraine)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 55,
+  "plates": [
+    {
+      "code": "AA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Kyjiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Winnyzja"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Wolyn"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Dnipropetrowsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Donezk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kyjiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Autonome Republik Krim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Schytomyr"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Transkarpatien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Saporischschja"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Iwano-Frankiwsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Charkiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kirowohrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Luhansk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Lwiw (Lemberg)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Mykolajiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Odessa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Poltawa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Riwne"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Sumy"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Ternopil"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Cherson"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Chmelnyzkyj"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tscherkassy"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tschernihiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tscherniwzi (Czernowitz)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Sewastopol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kirowohrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Luhansk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Lwiw (Lemberg)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Mykolajiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Odessa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Poltawa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Riwne"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Sumy"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Ternopil"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Cherson"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Chmelnyzkyj"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tscherkassy"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tschernihiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Tscherniwzi (Czernowitz)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Sewastopol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "II",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "gesamtstaatlich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Kyjiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Winnyzja"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Wolyn"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Dnipropetrowsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Donezk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Kyjiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Autonome Republik Krim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Schytomyr"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Transkarpatien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Saporischschja"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Iwano-Frankiwsk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oblast Charkiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

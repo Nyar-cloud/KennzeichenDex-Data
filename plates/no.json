@@ -1,0 +1,6174 @@
+{
+  "land": {
+    "iso2": "NO",
+    "nameDe": "Norwegen",
+    "plateLetter": "N",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 22
+  },
+  "quelle": "vegvesen.no: Number plate series",
+  "lizenz": "Namensnennung (NPRA), siehe data/sources/LICENSES.md",
+  "erzeugt": "2026-09-08",
+  "anzahl": 414,
+  "plates": [
+    {
+      "code": "AA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Halden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Halden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Halden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sarpsborg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sarpsborg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sarpsborg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mysen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mysen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mysen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mysen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mysen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Moss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Moss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "AZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Moss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Moss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ørsta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drøbak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drøbak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drøbak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drøbak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drøbak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drøbak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drøbak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mysen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Asker og Bærum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CD",
+      "scope": "diplomatic",
+      "status": "aktuell",
+      "bezeichnung": "Diplomatenkennzeichen",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jessheim",
+        "Lillestrøm"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jessheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lakselv"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jessheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jessheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jessheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Akershus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oslo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oslo"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EA",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EB",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EC",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ED",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EE",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EF",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EH",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EJ",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EK",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EL",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EN",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EP",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ER",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ES",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ET",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EU",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EV",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit elektrischem Antrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Finnsnes",
+        "Hammerfest"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kirkenes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bodø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mosjøen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillehammer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tromsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bodø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hammerfest"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Svalbard"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Storslett"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hafslund (formerly Fredrikstad)"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mysen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Østfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vadsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elverum",
+        "Hamar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GA",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit Gasantrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elverum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elverum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elverum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elverum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elverum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tynset"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tynset"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsvinger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsvinger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsvinger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsvinger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsvinger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsvinger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillehammer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillehammer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillehammer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillehammer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lillehammer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "HY",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Fahrzeuge mit Wasserstoffantrieb",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Otta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Otta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Otta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gjøvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fagernes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fagernes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fagernes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Innlandet"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hønefoss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hønefoss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hønefoss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hønefoss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "JZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hønefoss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hønefoss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Drammen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kongsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Buskerud"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Horten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Horten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Horten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Horten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Horten",
+        "Tønsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vadsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Setesdal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tønsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tønsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tønsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tønsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tønsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tønsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tønsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sandefjord"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik",
+        "Sandefjord"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Larvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestfold"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ND",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Notodden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Notodden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Notodden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Notodden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rjukan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rjukan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Telemark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arendal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arendal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arendal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arendal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arendal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arendal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Arendal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Setesdal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansand"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansand"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansand"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansand"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansand"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansand"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansand"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansand"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mandal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mandal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mandal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Flekkefjord"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Flekkefjord"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mandal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mandal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Agder"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stavanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Egersund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Egersund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Egersund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haugesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haugesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haugesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haugesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haugesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haugesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haugesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haugesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Rogaland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Storslett"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bergen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Voss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Voss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Voss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Voss"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stord"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stord"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stord"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stord"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Odda"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Odda"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Odda"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Førde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Harstad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Førde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Førde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Førde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nordfjordeid"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nordfjordeid"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sogndal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sogndal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Vestland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ålesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ålesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ålesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ålesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ålesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ålesund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ørsta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ørsta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Molde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "US",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Molde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Molde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Molde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Molde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Alta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "UZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kristiansund"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sunndalsøra"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sunndalsøra"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Møre og Romsdal"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Støren",
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Støren"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trondheim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Levanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Orkdal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Orkdal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "VZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Orkdal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brekstad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brekstad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brekstad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steinkjer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steinkjer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steinkjer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steinkjer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steinkjer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Levanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Levanger"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stjørdal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stjørdal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Namsos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Namsos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Namsos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Namsos"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mosjøen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steinkjer"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mosjøen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mosjøen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "XZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mosjøen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mo i Rana"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mo i Rana"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mo i Rana"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mo i Rana"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bodø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bodø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bodø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bodø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fauske"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fauske"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Narvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Narvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Narvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Narvik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Svolvær"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sortland"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sortland"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stjørdal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Trøndelag"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sortland"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Svolvær"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Nordland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "YZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Harstad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Harstad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Harstad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tromsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Finnsnes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tromsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Finnsnes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tromsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Finnsnes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tromsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tromsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Troms"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Svalbard"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vadsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vadsø"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kirkenes"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Alta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Alta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Alta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Alta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hammerfest"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Alta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lakselv"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Finnmark"
+      ],
+      "varianten": []
+    }
+  ]
+}

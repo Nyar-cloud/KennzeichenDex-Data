@@ -1,0 +1,6090 @@
+{
+  "land": {
+    "iso2": "GB",
+    "nameDe": "Großbritannien",
+    "plateLetter": "UK",
+    "flagStyle": "grossbritannien",
+    "continent": "europa",
+    "sortOrder": 23
+  },
+  "quelle": [
+    "Kfz-Kennzeichen (Großbritannien)",
+    "Kfz-Kennzeichen (Nordirland)"
+  ],
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 467,
+  "plates": [
+    {
+      "code": "AA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Peterborough"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Norwich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Norwich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Norwich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Norwich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Norwich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Norwich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ipswich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ipswich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ipswich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ipswich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "AZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Birmingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Down"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cardiff"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Swansea"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Swansea"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Swansea"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Swansea"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Swansea"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Swansea"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bangor"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bangor"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bangor"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Shrewsbury"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Antrim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ED",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ER",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ES",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ET",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chelmsford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nottingham"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lincoln"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lincoln"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lincoln"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lincoln"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lincoln"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lincoln"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lincoln"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maidstone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brighton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bournemouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Isle of Wight"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Portsmouth"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tyrone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Antrim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Armagh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fermanagh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Down"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Fermanagh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Londonderry"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "JI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tyrone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "JZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Down"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Luton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Northampton"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Antrim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wimbledon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Borehamwood"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sidcup"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sidcup"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sidcup"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sidcup"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sidcup"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Armagh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ME",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ML",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manchester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ND",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Newcastle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stockton-on-Tees"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Londonderry"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ON",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oxford"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Preston"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Carlisle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Carlisle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Carlisle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Carlisle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Carlisle"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reading"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Antrim"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Glasgow"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Edinburgh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Edinburgh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Edinburgh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Edinburgh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Edinburgh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dundee"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dundee"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dundee"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dundee"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Aberdeen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Aberdeen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Aberdeen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Inverness"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Inverness"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Down"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "UI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Derry"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "UZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Worcester"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tyrone"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Exeter"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Truro"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Truro"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bristol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "XI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Belfast"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "XZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Armagh"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leeds"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sheffield"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Beverley"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Beverley"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Beverley"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Beverley"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "YZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Londonderry"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

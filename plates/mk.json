@@ -1,0 +1,471 @@
+{
+  "land": {
+    "iso2": "MK",
+    "nameDe": "Nordmazedonien",
+    "plateLetter": "MK",
+    "flagStyle": "nordmazedonien",
+    "continent": "europa",
+    "sortOrder": 8
+  },
+  "quelle": "Kfz-Kennzeichen (Nordmazedonien)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 35,
+  "plates": [
+    {
+      "code": "BE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Berovo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bitola"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Debar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Delčevo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Demir Hisar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Demir Kapija"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gevgelija"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gostivar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kavadarci"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kičevo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kočani"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kriva Palanka"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kratovo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kruševo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kumanovo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Makedonski Brod"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Makedonska Kamenica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Negotino"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ohrid"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Prilep"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Probištip"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Radoviš"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Resen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skopje"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sveti Nikole"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Strumica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Štip"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ŠT",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Štip"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Struga"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tetovo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TV",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Titov Veles"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Valandovo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Veles"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vinica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vevčani"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "land": {
+    "iso2": "BG",
+    "nameDe": "Bulgarien",
+    "plateLetter": "BG",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 10
+  },
+  "quelle": "Kfz-Kennzeichen (Bulgarien)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 32,
+  "plates": [
+    {
+      "code": "A",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Burgas"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "B",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warna"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BA",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Bulgarische Streitkräfte",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Widin"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wraza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Weliko Tarnowo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "C",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sofia-Stadt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sofia-Stadt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sofia-Stadt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Silistra"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sliwen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Smoljan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sofia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CP",
+      "scope": "federal",
+      "status": "aktuell",
+      "bezeichnung": "Zivilschutz",
+      "gebiete": [],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stara Sagora"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "E",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Blagoewgrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gabrowo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Plewen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "H",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Schumen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "K",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kardschali"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kjustendil"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "M",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Montana"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lowetsch"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "P",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Russe"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pasardschik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Plowdiw"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pernik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rasgrad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "T",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Targowischte"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dobritsch"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "X",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chaskowo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "У",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jambol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

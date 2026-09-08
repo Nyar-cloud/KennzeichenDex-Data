@@ -1,0 +1,562 @@
+{
+  "land": {
+    "iso2": "MD",
+    "nameDe": "Moldawien",
+    "plateLetter": "MD",
+    "flagStyle": "moldawien",
+    "continent": "europa",
+    "sortOrder": 13
+  },
+  "quelle": "Kfz-Kennzeichen (Republik Moldau)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 42,
+  "plates": [
+    {
+      "code": "AN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Anenii Noi"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Bălți"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Briceni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Basarabeasca"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "C",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Chișinău"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Kamenka"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Cahul"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Călărași"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Cimișlia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Criuleni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Căușeni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Cantemir"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Dubăsari"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Dondușeni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Drochia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ED",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Edineț"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Fălești"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Florești"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gagausien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Glodeni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Grigoriopol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Hîncești"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Ialoveni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "K",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Chișinău"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Leova"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Nisporeni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Ocnița"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Orhei"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Rîbnița"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Rîșcani"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Rezina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Șoldănești"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Sîngerei"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Slobodseja"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Soroca"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Strășeni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Ștefan Vodă"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stadt Bender"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Telenești"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Taraclia"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tiraspol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "UN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rajon Ungheni"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

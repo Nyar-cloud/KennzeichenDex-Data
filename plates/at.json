@@ -1,0 +1,1463 @@
+{
+  "land": {
+    "iso2": "AT",
+    "nameDe": "Österreich",
+    "plateLetter": "A",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 18
+  },
+  "quelle": "Kfz-Kennzeichen (Österreich)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 111,
+  "plates": [
+    {
+      "code": "AM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Amstetten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "B",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bregenz",
+        "Burgenland"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bad Aussee"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bruck an der Leitha"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bruck an der Mur",
+        "Bruck-Mürzzuschlag"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Baden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Braunau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bludenz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Deutschlandsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dornbirn"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "E",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Eisenstadt",
+        "Rust"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Eferding"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Eisenstadt-Umgebung"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FB",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Feldbach"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Feldkirchen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FF",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Fürstenfeld"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Feldkirch"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Freistadt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "G",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Graz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gröbming"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gmünd"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gänserndorf"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gmunden"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Grieskirchen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Güssing"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Graz-Umgebung"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hallein"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HB",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Hartberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hermagor"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hartberg-Fürstenfeld"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hollabrunn"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Horn"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "I",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Innsbruck"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Innsbruck-Land"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Imst"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "JE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jennersdorf"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "JO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "St. Johann im Pongau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "JU",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Judenburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "K",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Klagenfurt am Wörthersee",
+        "Kärnten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kitzbühel"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KF",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Knittelfeld"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Klosterneuburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kirchdorf"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Klagenfurt-Land"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Korneuburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Krems"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Krems an der Donau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kufstein"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "L",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Linz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Landeck"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leibnitz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leoben"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lilienfeld"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Liezen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Linz-Land"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leoben"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lienz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mattersburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mödling"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ME",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Melk"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mistelbach"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Murtal"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Murau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MZ",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Mürzzuschlag"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "N",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Niederösterreich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ND",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Neusiedl am See"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Neunkirchen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "O",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oberösterreich"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oberpullendorf"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Oberwart"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "P",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "St. Pölten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Perg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "St. Pölten"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RA",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Radkersburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Reutte"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ried"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rohrbach"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "S",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Salzburg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Scheibbs"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Schärding"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steyr-Land"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Salzburg-Umgebung"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Südoststeiermark"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Spittal an der Drau"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steyr"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Steiermark"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "St. Veit an der Glan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Schwechat"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Schwaz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "T",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tirol"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tamsweg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tulln"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "UU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Urfahr-Umgebung"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "V",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vorarlberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vöcklabruck"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Villach"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Völkermarkt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Villach Land"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Voitsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "W",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wien"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wiener Neustadt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wels"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wels-Land"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wiener Neustadt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wolfsberg"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Waidhofen an der Thaya"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WU",
+      "scope": "region",
+      "status": "auslaufend",
+      "gebiete": [
+        "Wien-Umgebung"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Waidhofen an der Ybbs"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Weiz"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zell am See"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zwettl"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

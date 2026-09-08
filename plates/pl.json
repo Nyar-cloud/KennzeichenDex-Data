@@ -1,0 +1,6424 @@
+{
+  "land": {
+    "iso2": "PL",
+    "nameDe": "Polen",
+    "plateLetter": "PL",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 1
+  },
+  "quelle": "Kfz-Kennzeichen (Polen)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 427,
+  "plates": [
+    {
+      "code": "BAU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Augustowski"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BBI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bielski"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BGR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Grajewski"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BHA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Hajnowski"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Białystok"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BIA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Białostocki"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BIB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Białostocki"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BKL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kolneński"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Łomża"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BLM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łomżyński"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BMN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Moniecki"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Suwałki"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BSE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sejneński"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BSI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Siemiatycki"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BSK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sokólski"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BSU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Suwalski"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BWM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wysokomazowiecki"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "BZA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Zambrowski"
+      ],
+      "derivation": "Podlaskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Podlachien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CAL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Aleksandrowski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bydgoszcz"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CBC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bydgoski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CBR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Brodnicki"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CBY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bydgoski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CCH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Chełmiński"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Grudziądz"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CGD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Golubsko-Dobrzyński"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CGR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Grudziądzki"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CIN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Inowrocławski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CLI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lipnowski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CMG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Mogileński"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CNA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nakielski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CRA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Radziejowski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CRY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Rypiński"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CSE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sępoleński"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CSW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Świecki"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Toruń"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CTR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Toruński"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CTU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Tucholski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Włocławek"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CWA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wąbrzeski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CWL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Włocławski"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "CZN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Żniński"
+      ],
+      "derivation": "Kujawsko-Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kujawien-Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wałbrzych"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DBA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wałbrzyski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DBL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bolesławiecki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DDZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Dzierżoniowski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DGL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Głogowski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DGR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Górowski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jelenia Góra"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DJA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Jaworski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DJE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Karkonoski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DKA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kamiennogórski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DKL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kłodzki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Legnica"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DLB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lubański"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DLE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Legnicki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DLU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lubiński"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DLW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lwówecki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DMI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Milicki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DOA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Oławski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DOL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Oleśnicki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DPL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Polkowicki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DSR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Średzki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Strzeliński"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DSW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Świdnicki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DTR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Trzebnicki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wrocław"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DWL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wołowski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DWR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wrocławski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wrocław"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DZA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ząbkowicki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DZG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Zgorzelecki"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "DZL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Złotoryjski"
+      ],
+      "derivation": "Dolnośląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Niederschlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EBE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bełchatowski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EBR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Brzeziński"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ED",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Łódź"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EKU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kutnowski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Łódź"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ELA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łaski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ELC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łowicki"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ELE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łęczycki"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ELW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łódzki wschodni"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EOP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Opoczyński"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piotrków Trybunalski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EPA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pabianicki"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EPD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Poddębicki"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EPI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Piotrkowski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EPJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pajęczański"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ERA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Radomszczański"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ERW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Rawski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ES",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skierniewice"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ESI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sieradzki"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ESK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Skierniewicki"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ETM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Tomaszowski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EWE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wieruszowski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EWI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wieluński"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EZD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Zduńskowolski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "EZG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Zgierski"
+      ],
+      "derivation": "Łódzkie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lodz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gorzów Wielkopolski"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FGW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gorzowski"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FKR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Krośnieński"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FMI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Międzyrzecki"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FNW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nowosolski"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FSD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Strzelecko-Drezdenecki"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FSL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Słubicki"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FSU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sulęciński"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FSW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Świebodziński"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FWS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wschowski"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zielona Góra"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FZA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Żarski"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FZG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Żagański"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "FZI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Zielonogórski"
+      ],
+      "derivation": "Lubuskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lebus"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gdynia"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GBY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bytowski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GCH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Chojnicki"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GCZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Człuchowski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gdańsk"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GDA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gdański"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GKA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kartuski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GKS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kościerski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GKW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kwidzyński"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GKY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kartuski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GKZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kartuski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GLE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lęborski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GMB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Malborski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GND",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nowodworski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GPU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pucki"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Słupsk"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GSL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Słupski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GSP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sopot"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Starogardzki"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GSZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sztumski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GTC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Tczewski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GWE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wejherowski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "GWO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wejherowski"
+      ],
+      "derivation": "Pomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Pommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KBC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bocheński"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KBR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Brzeski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KCH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Chrzanowski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KDA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Dąbrowski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KGR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gorlicki"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kraków"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KLI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Limanowski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KMI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Miechowski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KMY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Myślenicki"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nowy Sącz"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KNS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nowosądecki"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KNT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nowotarski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KOL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Olkuski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KOS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Oświęcimski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KPR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Proszowicki"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kraków"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KRA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Krakowski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KSU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Suski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tarnów"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KTA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Tarnowski"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KTT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Tatrzański"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KWA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wadowicki"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "KWI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wielicki"
+      ],
+      "derivation": "Małopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Kleinpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Biała Podlaska"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LBI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bialski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LBL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Biłgorajski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chełm"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LCH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Chełmski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LHR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Hrubieszowski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LJA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Janowski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LKR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kraśnicki"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LKS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Krasnostawski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LLB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lubartowski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LLE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łęczyński"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LLU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łukowski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LOP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Opolski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LPA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Parczewski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LPU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Puławski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LRA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Radzyński"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LRY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Rycki"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LSW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Świdnicki"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LTM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Tomaszowski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lublin"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LUB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lubelski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LWL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Włodawski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zamość"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "LZA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Zamojski"
+      ],
+      "derivation": "Lubelskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Lublin"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NBA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bartoszycki"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NBR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Braniewski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NDZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Działdowski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elbląg"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NEB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Elbląski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NEL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ełcki"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NGI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Giżycki"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NGO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gołdapski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NIL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Iławski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NKE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kętrzyński"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NLI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lidzbarski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NMR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Mrągowski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NNI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nidzicki"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NNM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nowomiejski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Olsztyn"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NOE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Olecki"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NOG",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Olecko"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NOL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Olsztyński"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NOS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ostródzki"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NOT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ostródzki"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NOX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ostródzki"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NPI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Piski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NSZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Szczycieński"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "NWE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Węgorzewski"
+      ],
+      "derivation": "Warmińsko-Mazurskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Ermland-Masuren"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Brzeski"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OGL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Głubczycki"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kędzierzyńsko-Kozielski"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OKL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kluczborski"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OKR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Krapkowicki"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ONA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Namysłowski"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ONY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nyski"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OOL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Oleski"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Opole"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OPO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Opolski"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OPR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Prudnicki"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "OST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Strzelecki"
+      ],
+      "derivation": "Opolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Oppeln"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PCH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Chodzieski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PCT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Czarnkowsko-Trzcianecki"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PGN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gnieźnieński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PGO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Grodziski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PGS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gostyński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PJA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Jarociński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kalisz"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PKA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kaliski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PKE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kępiński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PKL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kolski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PKN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Koniński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PKO",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Konin"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PKR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Krotoszyński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PKS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kościański"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leszno"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PLE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Leszczyński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PMI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Międzychodzki"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Konin"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PNT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nowotomyski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Poznań"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "POB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Obornicki"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "POS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ostrowski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "POT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ostrzeszowski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "POZ",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Powiat Poznański"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pilski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PPL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pleszewski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PRA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Rawicki"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PSE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Śremski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PSL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Słupecki"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PSR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Średzki"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PSZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Szamotulski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PTU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Turecki"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PWA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wągrowiecki"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PWL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wolsztyński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PWR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wrzesiński"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Poznań"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Poznań"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Poznański"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "PZL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Złotowski"
+      ],
+      "derivation": "Wielkopolskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Großpolen"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RBI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bieszczadzki"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RBR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Brzozowski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RDE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Dębicki"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RJA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Jarosławski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RJS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Jasielski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Krosno"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RKL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kolbuszowski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RKR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Krośnieński"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RLA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łańcucki"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RLE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Leżajski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RLS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Leski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RLU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lubaczowski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RMI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Mielecki"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RNI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Niżański"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Przemyśl"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RPR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Przemyski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RPZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Przeworski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RRS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ropczycko-Sędziszowski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RSA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sanocki"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RSR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Strzyżowski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Stalowowolski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tarnobrzeg"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RTA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Tarnobrzeski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rzeszów"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RZE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Rzeszowski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RZR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Rzeszowski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "RZZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Rzeszowski"
+      ],
+      "derivation": "Podkarpackie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Karpatenvorland"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bielsko-Biała"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SBE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Będziński"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SBI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bielski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SBL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Bieruńsko-Lędziński"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SBN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Będziński"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Częstochowa"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SCI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Cieszyński"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SCN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Cieszyński"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SCZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Częstochowski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dąbrowa Górnicza"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Będziński"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gliwice"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SGL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gliwicki"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Chorzów"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Siemianowice Śląskie"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jaworzno"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SJZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jastrzębie-Zdrój"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Katowice"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SKL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kłobucki"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ruda Śląska"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SLU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lubliniecki"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mysłowice"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SMI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Mikołowski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SMY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Myszkowski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sosnowiec"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SPI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piekary Śląskie"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SPS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pszczyński"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rybnik"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SRB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Rybnicki"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SRC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Raciborski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SRS",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Ruda Śląska"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tychy"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "STA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Tarnogórski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "STY",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Powiat Tyski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Świętochłowice"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SWD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wodzisławski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SWZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wodzisławski"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bytom"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zabrze"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SZA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Zawierciański"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SZO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Żory"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "SZY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Żywiecki"
+      ],
+      "derivation": "Śląskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Schlesien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TBU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Buski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TJE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Jędrzejowski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kielce"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TKA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kazimierski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TKC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kielecki"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TKI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kielecki"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TKM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kielecki"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TKN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Konecki"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TKP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kielecki"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TLW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Włoszczowski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TOP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Opatowski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TOS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ostrowiecki"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TPI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pińczowski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TSA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sandomierski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TSK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Skarżyski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Starachowicki"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "TSZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Staszowski"
+      ],
+      "derivation": "Świętokrzyskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Heiligkreuz"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Białołęka"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Bemowo"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WBR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Białobrzeski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WCI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ciechanowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Bielany"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Mokotów"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WF",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Praga"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Garwoliński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WGM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Grodziski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WGR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Grójecki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WGS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gostyniński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Praga"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Śródmieście"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Targówek"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Ursus"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WKZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kozienicki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Legionowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WLI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Lipski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WLS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łosicki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Miński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WMA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Makowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WML",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Mławski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Ursynów"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WND",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Nowodworski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ostrołęka"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WOR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ostrowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WOS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Ostrołęcki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WOT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Otwocki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Płock"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Piaseczyński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Piaseczyński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Płocki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Płoński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pruszkowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pruszkowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pruszkowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pułtuski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Piaseczyński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Piaseczyński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Przysuski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WPZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Przasnyski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Radom"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WRA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Radomski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Siedlce"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WSC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sochaczewski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WSE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sierpecki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WSI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Siedlecki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WSK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sokołowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WSZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Szydłowiecki"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Wawer"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Ochota"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wołomin"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Rembertów",
+        "Warszawa-Wilanów",
+        "Warszawa-Włochy"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WWE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Węgrowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WWL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wołomiński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WWY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wyszkowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Żoliborz",
+        "Warszawa-Wesoła"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Warszawa-Wola"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Warszawski Zachodni"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WZU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Żuromiński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WZW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Zwoleński"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "WZY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Żyrardowski"
+      ],
+      "derivation": "Mazowieckie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Masowien"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZBI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Białogardzki"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZCH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Choszczeński"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZDR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Drawski"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZGL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Goleniowski"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZGR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gryfiński"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZGY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Gryficki"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Koszalin"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZKA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kamieński"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZKL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Kołobrzeski"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZKO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Koszaliński"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZLO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Łobeski"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZMY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Myśliborski"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZPL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Policki"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZPY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Pyrzycki"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Szczecin"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZSD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Świdwiński"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZSL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Sławieński"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZST",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Stargardzki"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZSW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Świnoujście"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZSZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Szczecinecki"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZWA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Powiat Wałecki"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "ZZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Szczecin"
+      ],
+      "derivation": "Zachodniopomorskie",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Westpommern"
+      ],
+      "varianten": []
+    }
+  ]
+}

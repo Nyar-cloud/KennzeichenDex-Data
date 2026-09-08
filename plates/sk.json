@@ -1,0 +1,978 @@
+{
+  "land": {
+    "iso2": "SK",
+    "nameDe": "Slowakei",
+    "plateLetter": "SK",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 16
+  },
+  "quelle": "Kfz-Kennzeichen (Slowakei)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 74,
+  "plates": [
+    {
+      "code": "BA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bratislava"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Banská Bystrica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bardejov"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bratislava"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bánovce nad Bebravou"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Brezno"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Banská Štiavnica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bratislava"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bytča"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Čadca"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dolný Kubín"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dunajská Streda"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Detva"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Galanta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gelnica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hlohovec"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Humenné"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "IL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ilava"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Krupina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Košice"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kežmarok"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kysucké Nové Mesto"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Komárno"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Košice-okolie"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Lučenec"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Levoča"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Liptovský Mikuláš"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Levice"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Malacky"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Michalovce"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ML",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Medzilaborce"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Martin"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Myjava"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nové Mesto nad Váhom"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Námestovo"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nitra"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NZ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nové Zámky"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Považská Bystrica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Prievidza"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Partizánske"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pezinok"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Piešťany"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Prešov"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Poprad"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Poltár"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PU",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Púchov"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Revúca"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ružomberok"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rimavská Sobota"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rožňava"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Šaľa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sabinov"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Senec"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Senica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SI",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Skalica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Svidník"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stará Ľubovňa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Spišská Nová Ves"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sobrance"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Stropkov"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Snina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trenčín"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Topoľčany"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Turčianske Teplice"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tvrdošín"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trnava"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trebišov"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Veľký Krtíš"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VT",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Vranov nad Topľou"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZA",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Žilina"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZC",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Žarnovica"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Žiar nad Hronom"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zlaté Moravce"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ZV",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zvolen"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

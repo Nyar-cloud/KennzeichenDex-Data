@@ -1,0 +1,159 @@
+{
+  "land": {
+    "iso2": "SI",
+    "nameDe": "Slowenien",
+    "plateLetter": "SLO",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 9
+  },
+  "quelle": "Kfz-Kennzeichen (Slowenien)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 11,
+  "plates": [
+    {
+      "code": "CE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Celje"
+      ],
+      "derivation": "Cilli",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nova Gorica"
+      ],
+      "derivation": "Neu-Görz",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Krško"
+      ],
+      "derivation": "Gurkfeld",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KP",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Koper"
+      ],
+      "derivation": "Gafers",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KR",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kranj"
+      ],
+      "derivation": "Krainburg",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LJ",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ljubljana"
+      ],
+      "derivation": "Laibach",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MB",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Maribor"
+      ],
+      "derivation": "Marburg an der Drau",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Murska Sobota"
+      ],
+      "derivation": "Olsnitz",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "NM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Novo mesto"
+      ],
+      "derivation": "Rudolfswerth",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Postojna"
+      ],
+      "derivation": "Adelsberg",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SG",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Slovenj Gradec"
+      ],
+      "derivation": "Windischgrätz",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

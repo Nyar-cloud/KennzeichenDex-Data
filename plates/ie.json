@@ -1,0 +1,393 @@
+{
+  "land": {
+    "iso2": "IE",
+    "nameDe": "Irland",
+    "plateLetter": "IRL",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 2
+  },
+  "quelle": "Kfz-Kennzeichen (Irland)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 29,
+  "plates": [
+    {
+      "code": "C",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cork"
+      ],
+      "derivation": "Corcaigh",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Clare"
+      ],
+      "derivation": "An Clár",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Cavan"
+      ],
+      "derivation": "An Cabhán",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "CW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Carlow"
+      ],
+      "derivation": "Ceatharlach",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "D",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Dublin"
+      ],
+      "derivation": "Baile Átha Cliath",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DL",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Donegal"
+      ],
+      "derivation": "Dún na nGall",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "G",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Galway"
+      ],
+      "derivation": "Gaillimh",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KE",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kildare"
+      ],
+      "derivation": "Cill Dara",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kilkenny"
+      ],
+      "derivation": "Cill Cheannaigh",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kerry"
+      ],
+      "derivation": "Ciarraí",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "L",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Limerick (City)"
+      ],
+      "derivation": "Luimneach",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Longford"
+      ],
+      "derivation": "An Longfort",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Louth"
+      ],
+      "derivation": "An Lú",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LK",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Limerick (Grafschaft)"
+      ],
+      "derivation": "Luimneach",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LM",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Leitrim"
+      ],
+      "derivation": "Liatroim",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Laois"
+      ],
+      "derivation": "Laois",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Meath"
+      ],
+      "derivation": "An Mhí",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Monaghan"
+      ],
+      "derivation": "Muineachán",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mayo"
+      ],
+      "derivation": "Maigh Eo",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "OY",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Offaly"
+      ],
+      "derivation": "Uíbh Fhailí",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "RN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Roscommon"
+      ],
+      "derivation": "Ros Comáin",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SO",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sligo"
+      ],
+      "derivation": "Sligeach",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TN",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tipperary North Riding"
+      ],
+      "derivation": "Tiobraid Árann Thuaidh",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TS",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tipperary South Riding"
+      ],
+      "derivation": "Tiobraid Árann Theas",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "W",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Waterford (City)"
+      ],
+      "derivation": "Port Láirge",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WD",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Waterford (Grafschaft)"
+      ],
+      "derivation": "Port Láirge",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WH",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Westmeath"
+      ],
+      "derivation": "An Iarmhí",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WW",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wicklow"
+      ],
+      "derivation": "Cill Mhantáin",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "WX",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Wexford"
+      ],
+      "derivation": "Loch Garman",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

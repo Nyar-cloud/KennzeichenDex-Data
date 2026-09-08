@@ -1,0 +1,1069 @@
+{
+  "land": {
+    "iso2": "TR",
+    "nameDe": "Türkei",
+    "plateLetter": "TR",
+    "flagStyle": "tuerkei",
+    "continent": "europa",
+    "sortOrder": 15
+  },
+  "quelle": "Kfz-Kennzeichen (Türkei)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 81,
+  "plates": [
+    {
+      "code": "01",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Adana"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "02",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Adıyaman"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "03",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Afyonkarahisar"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "04",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ağrı"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "05",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Amasya"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "06",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ankara"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "07",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Antalya"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "08",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Artvin"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "09",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Aydın"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "10",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Balıkesir"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "11",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bilecik"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "12",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bingöl"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "13",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bitlis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "14",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bolu"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "15",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Burdur"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "16",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bursa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "17",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Çanakkale"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "18",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Çankırı"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "19",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Çorum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "20",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Denizli"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "21",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Diyarbakır"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "22",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Edirne"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "23",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Elazığ"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "24",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Erzincan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "25",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Erzurum"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "26",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Eskişehir"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "27",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gaziantep"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "28",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Giresun"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "29",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Gümüşhane"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "30",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hakkari"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "31",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hatay"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "32",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Isparta"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "33",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mersin"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "34",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "İstanbul"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "35",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "İzmir"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "36",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kars"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "37",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kastamonu"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "38",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kayseri"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "39",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kırklareli"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "40",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kırşehir"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "41",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kocaeli"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "42",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Konya"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "43",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kütahya"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "44",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Malatya"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "45",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Manisa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "46",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kahramanmaraş"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "47",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Mardin"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "48",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Muğla"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "49",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Muş"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "50",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Nevşehir"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "51",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Niğde"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "52",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ordu"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "53",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Rize"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "54",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sakarya"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "55",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Samsun"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "56",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Siirt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "57",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sinop"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "58",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Sivas"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "59",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tekirdağ"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "60",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tokat"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "61",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Trabzon"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "62",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Tunceli"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "63",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Şanlıurfa"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "64",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Uşak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "65",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Van"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "66",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Yozgat"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "67",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zonguldak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "68",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Aksaray"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "69",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bayburt"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "70",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Karaman"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "71",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kırıkkale"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "72",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Batman"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "73",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Şırnak"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "74",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Bartın"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "75",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ardahan"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "76",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Iğdır"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "77",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Yalova"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "78",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Karabük"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "79",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kilis"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "80",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Osmaniye"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "81",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Düzce"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}

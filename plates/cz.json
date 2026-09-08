@@ -1,0 +1,198 @@
+{
+  "land": {
+    "iso2": "CZ",
+    "nameDe": "Tschechien",
+    "plateLetter": "CZ",
+    "flagStyle": "euro",
+    "continent": "europa",
+    "sortOrder": 5
+  },
+  "quelle": "Kfz-Kennzeichen (Tschechien)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-08",
+  "anzahl": 14,
+  "plates": [
+    {
+      "code": "A",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Hlavní město Praha"
+      ],
+      "derivation": "Hauptstadt Prag",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "B",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jihomoravský kraj"
+      ],
+      "derivation": "Südmährische Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "C",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Jihočeský kraj"
+      ],
+      "derivation": "Südböhmische Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "E",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Pardubický kraj"
+      ],
+      "derivation": "Pardubitzer Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "H",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Královéhradecký kraj"
+      ],
+      "derivation": "Königgrätzer Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "J",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Kraj Vysočina"
+      ],
+      "derivation": "Region Hochland",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "K",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Karlovarský kraj"
+      ],
+      "derivation": "Karlsbader Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "L",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Liberecký kraj"
+      ],
+      "derivation": "Reichenberger Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "M",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Olomoucký kraj"
+      ],
+      "derivation": "Olmützer Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "P",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Plzeňský kraj"
+      ],
+      "derivation": "Pilsner Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "S",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Středočeský kraj"
+      ],
+      "derivation": "Mittelböhmische Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "T",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Moravskoslezský kraj"
+      ],
+      "derivation": "Mährisch-Schlesische Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "U",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Ústecký kraj"
+      ],
+      "derivation": "Aussiger Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "Z",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Zlínský kraj"
+      ],
+      "derivation": "Zliner Region",
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}
