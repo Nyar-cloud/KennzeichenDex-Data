@@ -93,7 +93,7 @@ vorsichtshalber mit Namensnennung statt einer behaupteten Lizenz
 uebernommen. Namensnennung: **Główny Urząd Geodezji i Kartografii
 (GUGiK)**. Bezug: `https://www.geoportal.gov.pl/en/data/national-register-of-boundaries/`
 
-## geoBoundaries (Gemeindegeometrie Serbien, Montenegro)
+## geoBoundaries (Gemeindegeometrie Serbien, Montenegro, Oesterreich)
 
 **Erste Quelle im Projekt, die nicht CC BY 4.0 ist.** geoBoundaries
 selbst vergibt fuer sein kuratiertes Gesamtprojekt CC BY 4.0, die
@@ -140,6 +140,12 @@ also nicht durchgehend dieselbe Lizenz, jedes Land muss einzeln gegen
 seine eigenen API-Metadaten geprueft werden. Namensnennung fuer Moldawien:
 **UNHCR/OCHA, ueber geoBoundaries**.
 
+**Oesterreich nutzt geoBoundaries `AUT/ADM2`** (die 94 politischen
+Bezirke, E81), Metadaten vom 11.09.2026 nennen wieder
+`"boundarySource": "OpenStreetMap"` und ODbL 1.0 - also dieselbe
+Namensnennung wie Serbien und Montenegro: **© OpenStreetMap
+contributors**.
+
 **Weissrussland nutzt geoBoundaries mit einer VIERTEN Lizenzvariante**
 (E67): `BLR/ADM1`-Metadaten nennen `"boundarySource": "CIESIN"`
 (Center for International Earth Science Information Network, Columbia
@@ -148,7 +154,7 @@ License"` - CC BY 3.0 OHNE den "IGO"-Zusatz Moldawiens, eine eigene
 Lizenzvariante. Namensnennung: **CIESIN, Columbia University, ueber
 geoBoundaries**.
 
-## Nominatim (Punktgeometrie Slowenien, Grossbritannien, Norwegen)
+## Nominatim (Slowenien, Grossbritannien, Norwegen als Punkt; Nordirland und die Slowakei als Flaeche)
 
 Dieselbe Quelle wie geoBoundaries oben, direkt aus OpenStreetMap statt
 ueber einen kuratierten Grenzendatensatz: Nominatim
@@ -160,6 +166,14 @@ zusaetzlich hoechstens eine Anfrage pro Sekunde und einen eigenen
 User-Agent - beides in `data/build/nominatim.mjs` eingehalten, Ergebnisse
 werden pro Land gecached (`data/sources/nominatim-<land>.json`) statt bei
 jedem Lauf erneut abgefragt.
+
+**Dieselbe Quelle liefert seit dem 11.09.2026 auch Flaechen**
+(`polygon_geojson=1`, Cache `data/sources/nominatim-flaechen-<land>.json`):
+Nordirlands sechs historische Grafschaften und Belfast (E80) sowie die 72
+slowakischen Okresy (E81). Fuer die Slowakei, weil geoBoundaries dort
+zerschossene und abgeschnittene Namen fuehrt und `shapeISO` leer laesst -
+ein Namensabgleich daraus waere Raterei. Lizenz und Namensnennung
+unveraendert: **ODbL 1.0, © OpenStreetMap contributors**.
 
 ## Natural Earth (Basiskarte der Kartenseite)
 
