@@ -160,3 +160,18 @@ zusaetzlich hoechstens eine Anfrage pro Sekunde und einen eigenen
 User-Agent - beides in `data/build/nominatim.mjs` eingehalten, Ergebnisse
 werden pro Land gecached (`data/sources/nominatim-<land>.json`) statt bei
 jedem Lauf erneut abgefragt.
+
+## Natural Earth (Basiskarte der Kartenseite)
+
+`ne_50m_admin_0_countries`, `ne_10m_admin_0_countries`,
+`ne_10m_admin_1_states_provinces_lines`, `ne_50m_lakes`,
+`ne_10m_populated_places` und `ne_50m_geography_marine_polys`, bezogen
+ueber `raw.githubusercontent.com/nvkelso/natural-earth-vector` (E78).
+Daraus entsteht `web/public/karte/basiskarte.json`: Landflaechen, Grenzen,
+Seen und die deutschen Namen fuer Laender, Orte und Meere.
+
+**Lizenz: Public Domain.** Natural Earth verzichtet ausdruecklich auf jede
+Namensnennung ("no permission needed", `naturalearthdata.com/about/terms-of-use`).
+Die Karte nennt die Quelle trotzdem im Nachweis unten rechts
+("Kartengrundlage: Natural Earth") - das kostet nichts und sagt dem
+naechsten Leser, woher die Umrisse kommen.
