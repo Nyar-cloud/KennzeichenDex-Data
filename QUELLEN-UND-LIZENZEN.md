@@ -154,6 +154,15 @@ License"` - CC BY 3.0 OHNE den "IGO"-Zusatz Moldawiens, eine eigene
 Lizenzvariante. Namensnennung: **CIESIN, Columbia University, ueber
 geoBoundaries**.
 
+**Albanien nutzt geoBoundaries `ALB/ADM2` mit einer FUENFTEN Lizenzvariante**
+(E84): die Metadaten (Stand 22.09.2026) nennen `"boundarySource":
+"geoBoundaries, Albania districts blank 2.svg"` und `"boundaryLicense":
+"Creative Commons Attribution 2.5 Generic"`, Quelle ist also eine Karte
+auf Wikimedia Commons. Namensnennung: **Wikimedia Commons (Albania
+districts blank 2.svg), ueber geoBoundaries, CC BY 2.5**. Zwei Macken der
+Quelle (Korçë als zweites "Kuçovë" beschriftet, Vlorë in zwei Features)
+bereinigt `data/build/geometrie-al.mjs` selbst.
+
 ## Nominatim (Slowenien, Grossbritannien, Norwegen als Punkt; Nordirland und die Slowakei als Flaeche)
 
 Dieselbe Quelle wie geoBoundaries oben, direkt aus OpenStreetMap statt

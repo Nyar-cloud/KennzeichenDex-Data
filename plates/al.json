@@ -1,0 +1,484 @@
+{
+  "land": {
+    "iso2": "AL",
+    "nameDe": "Albanien",
+    "plateLetter": "AL",
+    "flagStyle": "albanien",
+    "continent": "europa",
+    "sortOrder": 25
+  },
+  "quelle": "Kfz-Kennzeichen (Albanien)",
+  "lizenz": "CC BY-SA 4.0",
+  "erzeugt": "2026-09-22",
+  "anzahl": 36,
+  "plates": [
+    {
+      "code": "BC",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Tropoja"
+      ],
+      "derivation": "Bajram Curri",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Berat"
+      ],
+      "derivation": "Berat",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "BZ",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Bulqiza"
+      ],
+      "derivation": "Bulqiza",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DI",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Dibra"
+      ],
+      "derivation": "Peshkopia",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DL",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Delvina"
+      ],
+      "derivation": "Delvina",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Durrës"
+      ],
+      "derivation": "Durrës",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "DV",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Devoll"
+      ],
+      "derivation": "Bilisht",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "EL",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Elbasan"
+      ],
+      "derivation": "Elbasan",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "ER",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Kolonja"
+      ],
+      "derivation": "Erseka",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "FR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Fier"
+      ],
+      "derivation": "Fier",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GJ",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Gjirokastra"
+      ],
+      "derivation": "Gjirokastra",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "GR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Gramsh"
+      ],
+      "derivation": "Gramsh",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "HS",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Has"
+      ],
+      "derivation": "Kruma",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KJ",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Kavaja"
+      ],
+      "derivation": "Kavaja",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KO",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Korça"
+      ],
+      "derivation": "Korça",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Kruja"
+      ],
+      "derivation": "Kruja",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KU",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Kukës"
+      ],
+      "derivation": "Kukës",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "KV",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Kuçova"
+      ],
+      "derivation": "Kuçova",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LA",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Kurbin"
+      ],
+      "derivation": "Laç",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LB",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Librazhd"
+      ],
+      "derivation": "Librazhd",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LE",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Lezha"
+      ],
+      "derivation": "Lezha",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "LU",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Lushnja"
+      ],
+      "derivation": "Lushnja",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MA",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Malësia e Madhe"
+      ],
+      "derivation": "Koplik",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MK",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Mallakastra"
+      ],
+      "derivation": "Ballsh",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Mirdita"
+      ],
+      "derivation": "Rrëshen",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "MT",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Mat"
+      ],
+      "derivation": "Burrel",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PE",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Peqin"
+      ],
+      "derivation": "Peqin",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PG",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Pogradec"
+      ],
+      "derivation": "Pogradec",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Përmet"
+      ],
+      "derivation": "Përmet",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "PU",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Puka"
+      ],
+      "derivation": "Puka",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SH",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Shkodra"
+      ],
+      "derivation": "Shkodra",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SK",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Skrapar"
+      ],
+      "derivation": "Çorovoda",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "SR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Saranda"
+      ],
+      "derivation": "Saranda",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TP",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Tepelena"
+      ],
+      "derivation": "Tepelena",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "TR",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Tirana"
+      ],
+      "derivation": "Tirana",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    },
+    {
+      "code": "VL",
+      "scope": "region",
+      "status": "historisch",
+      "gebiete": [
+        "Vlora"
+      ],
+      "derivation": "Vlora",
+      "gueltigAb": null,
+      "gueltigBis": "2011-02-16",
+      "bundeslaender": [],
+      "varianten": []
+    }
+  ]
+}
