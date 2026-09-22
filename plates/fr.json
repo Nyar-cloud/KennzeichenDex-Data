@@ -1,1406 +1,1981 @@
 {
   "land": {
-    "iso2": "IT",
-    "nameDe": "Italien",
-    "plateLetter": "I",
+    "iso2": "FR",
+    "nameDe": "Frankreich",
+    "plateLetter": "F",
     "flagStyle": "euro",
     "continent": "europa",
-    "sortOrder": 21
+    "sortOrder": 24
   },
-  "quelle": "Kfz-Kennzeichen (Italien)",
+  "quelle": [
+    "Département",
+    "Kfz-Kennzeichen (Frankreich) (1950–2009)",
+    "Region (Frankreich)"
+  ],
   "lizenz": "CC BY-SA 4.0",
   "erzeugt": "2026-09-22",
-  "anzahl": 107,
+  "anzahl": 109,
   "plates": [
     {
-      "code": "AG",
+      "code": "01",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Agrigent"
+        "Ain"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Rhône-Alpes"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "02",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Aisne"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Picardie"
+      ],
+      "bundeslaenderJetzt": [
+        "Hauts-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "AL",
+      "code": "2A",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Alessandria"
+        "Corse-du-Sud"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Korsika"
+      ],
+      "bundeslaenderJetzt": [
+        "Korsika"
+      ],
+      "varianten": []
+    },
+    {
+      "code": "2B",
+      "scope": "region",
+      "status": "aktuell",
+      "gebiete": [
+        "Haute-Corse"
+      ],
+      "derivation": null,
+      "gueltigAb": null,
+      "gueltigBis": null,
+      "bundeslaender": [
+        "Korsika"
+      ],
+      "bundeslaenderJetzt": [
+        "Korsika"
+      ],
       "varianten": []
     },
     {
-      "code": "AN",
+      "code": "03",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Ancona"
+        "Allier"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Auvergne"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "AO",
+      "code": "04",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Valle d’Aosta"
+        "Alpes-de-Haute-Provence"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
+      "bundeslaenderJetzt": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
       "varianten": []
     },
     {
-      "code": "AP",
+      "code": "05",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Ascoli Piceno"
+        "Hautes-Alpes"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
+      "bundeslaenderJetzt": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
       "varianten": []
     },
     {
-      "code": "AQ",
+      "code": "06",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "L’Aquila"
+        "Alpes-Maritimes"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
+      "bundeslaenderJetzt": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
       "varianten": []
     },
     {
-      "code": "AR",
+      "code": "07",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Arezzo"
+        "Ardèche"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Rhône-Alpes"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "AT",
+      "code": "08",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Asti"
+        "Ardennes"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Champagne-Ardenne"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "AV",
+      "code": "09",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Avellino"
+        "Ariège"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Midi-Pyrénées"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "BA",
+      "code": "10",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Bari"
+        "Aube"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Champagne-Ardenne"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "BG",
+      "code": "11",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Bergamo"
+        "Aude"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Languedoc-Roussillon"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "BI",
+      "code": "12",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Biella"
+        "Aveyron"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Midi-Pyrénées"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "BL",
+      "code": "13",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Belluno"
+        "Bouches-du-Rhône"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
+      "bundeslaenderJetzt": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
       "varianten": []
     },
     {
-      "code": "BN",
+      "code": "14",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Benevento"
+        "Calvados"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Basse-Normandie"
+      ],
+      "bundeslaenderJetzt": [
+        "Normandie"
+      ],
       "varianten": []
     },
     {
-      "code": "BO",
+      "code": "15",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Bologna"
+        "Cantal"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Auvergne"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "BR",
+      "code": "16",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Brindisi"
+        "Charente"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Poitou-Charentes"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "BS",
+      "code": "17",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Brescia"
+        "Charente-Maritime"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Poitou-Charentes"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "BT",
+      "code": "18",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Barletta-Andria-Trani"
+        "Cher"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Centre"
+      ],
+      "bundeslaenderJetzt": [
+        "Centre-Val de Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "BZ",
+      "code": "19",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Bozen"
+        "Corrèze"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Limousin"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "CA",
+      "code": "21",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Cagliari"
+        "Côte-d’Or"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Bourgogne"
+      ],
+      "bundeslaenderJetzt": [
+        "Bourgogne-Franche-Comté"
+      ],
       "varianten": []
     },
     {
-      "code": "CB",
+      "code": "22",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Campobasso"
+        "Côtes-d’Armor"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Bretagne"
+      ],
+      "bundeslaenderJetzt": [
+        "Bretagne"
+      ],
       "varianten": []
     },
     {
-      "code": "CE",
+      "code": "23",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Caserta"
+        "Creuse"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Limousin"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "CH",
+      "code": "24",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Chieti"
+        "Dordogne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Aquitanien"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "CL",
+      "code": "25",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Caltanissetta"
+        "Doubs"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Franche-Comté"
+      ],
+      "bundeslaenderJetzt": [
+        "Bourgogne-Franche-Comté"
+      ],
       "varianten": []
     },
     {
-      "code": "CN",
+      "code": "26",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Cuneo"
+        "Drôme"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Rhône-Alpes"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "CO",
+      "code": "27",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Como"
+        "Eure"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Haute-Normandie"
+      ],
+      "bundeslaenderJetzt": [
+        "Normandie"
+      ],
       "varianten": []
     },
     {
-      "code": "CR",
+      "code": "28",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Cremona"
+        "Eure-et-Loir"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Centre"
+      ],
+      "bundeslaenderJetzt": [
+        "Centre-Val de Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "CS",
+      "code": "29",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Cosenza"
+        "Finistère"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Bretagne"
+      ],
+      "bundeslaenderJetzt": [
+        "Bretagne"
+      ],
       "varianten": []
     },
     {
-      "code": "CT",
+      "code": "30",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Catania"
+        "Gard"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Languedoc-Roussillon"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "CZ",
+      "code": "31",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Catanzaro"
+        "Haute-Garonne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Midi-Pyrénées"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "EN",
+      "code": "32",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Enna"
+        "Gers"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Midi-Pyrénées"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "FC",
+      "code": "33",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Forlì-Cesena"
+        "Gironde"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Aquitanien"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "FE",
+      "code": "34",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Ferrara"
+        "Hérault"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Languedoc-Roussillon"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "FG",
+      "code": "35",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Foggia"
+        "Ille-et-Vilaine"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Bretagne"
+      ],
+      "bundeslaenderJetzt": [
+        "Bretagne"
+      ],
       "varianten": []
     },
     {
-      "code": "FI",
+      "code": "36",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Firenze"
+        "Indre"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Centre"
+      ],
+      "bundeslaenderJetzt": [
+        "Centre-Val de Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "FM",
+      "code": "37",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Fermo"
+        "Indre-et-Loire"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Centre"
+      ],
+      "bundeslaenderJetzt": [
+        "Centre-Val de Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "FR",
+      "code": "38",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Frosinone"
+        "Isère"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Rhône-Alpes"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "GE",
+      "code": "39",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Genova"
+        "Jura"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Franche-Comté"
+      ],
+      "bundeslaenderJetzt": [
+        "Bourgogne-Franche-Comté"
+      ],
       "varianten": []
     },
     {
-      "code": "GO",
+      "code": "40",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Gorizia"
+        "Landes"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Aquitanien"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "GR",
+      "code": "41",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Grosseto"
+        "Loir-et-Cher"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Centre"
+      ],
+      "bundeslaenderJetzt": [
+        "Centre-Val de Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "IM",
+      "code": "42",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Imperia"
+        "Loire"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Rhône-Alpes"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "IS",
+      "code": "43",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Isernia"
+        "Haute-Loire"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Auvergne"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "KR",
+      "code": "44",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Crotone"
+        "Loire-Atlantique"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Pays de la Loire"
+      ],
+      "bundeslaenderJetzt": [
+        "Pays de la Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "LC",
+      "code": "45",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Lecco"
+        "Loiret"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Centre"
+      ],
+      "bundeslaenderJetzt": [
+        "Centre-Val de Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "LE",
+      "code": "46",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Lecce"
+        "Lot"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Midi-Pyrénées"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "LI",
+      "code": "47",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Livorno"
+        "Lot-et-Garonne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Aquitanien"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "LO",
+      "code": "48",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Lodi"
+        "Lozère"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Languedoc-Roussillon"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "LT",
+      "code": "49",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Latina"
+        "Maine-et-Loire"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Pays de la Loire"
+      ],
+      "bundeslaenderJetzt": [
+        "Pays de la Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "LU",
+      "code": "50",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Lucca"
+        "Manche"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Basse-Normandie"
+      ],
+      "bundeslaenderJetzt": [
+        "Normandie"
+      ],
       "varianten": []
     },
     {
-      "code": "MB",
+      "code": "51",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Monza e Brianza"
+        "Marne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Champagne-Ardenne"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "MC",
+      "code": "52",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Macerata"
+        "Haute-Marne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Champagne-Ardenne"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "ME",
+      "code": "53",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Messina"
+        "Mayenne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Pays de la Loire"
+      ],
+      "bundeslaenderJetzt": [
+        "Pays de la Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "MI",
+      "code": "54",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Milano"
+        "Meurthe-et-Moselle"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Lothringen"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "MN",
+      "code": "55",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Mantova"
+        "Meuse"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Lothringen"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "MO",
+      "code": "56",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Modena"
+        "Morbihan"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Bretagne"
+      ],
+      "bundeslaenderJetzt": [
+        "Bretagne"
+      ],
       "varianten": []
     },
     {
-      "code": "MS",
+      "code": "57",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Massa-Carrara"
+        "Moselle"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Lothringen"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "MT",
+      "code": "58",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Matera"
+        "Nièvre"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Bourgogne"
+      ],
+      "bundeslaenderJetzt": [
+        "Bourgogne-Franche-Comté"
+      ],
       "varianten": []
     },
     {
-      "code": "NA",
+      "code": "59",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Napoli"
+        "Nord"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Nord-Pas-de-Calais"
+      ],
+      "bundeslaenderJetzt": [
+        "Hauts-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "NO",
+      "code": "60",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Novara"
+        "Oise"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Picardie"
+      ],
+      "bundeslaenderJetzt": [
+        "Hauts-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "NU",
+      "code": "61",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Nuoro"
+        "Orne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Basse-Normandie"
+      ],
+      "bundeslaenderJetzt": [
+        "Normandie"
+      ],
       "varianten": []
     },
     {
-      "code": "OR",
+      "code": "62",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Oristano"
+        "Pas-de-Calais"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Nord-Pas-de-Calais"
+      ],
+      "bundeslaenderJetzt": [
+        "Hauts-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "PA",
+      "code": "63",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Palermo"
+        "Puy-de-Dôme"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Auvergne"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "PC",
+      "code": "64",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Piacenza"
+        "Pyrénées-Atlantiques"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Aquitanien"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "PD",
+      "code": "65",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Padova"
+        "Hautes-Pyrénées"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Midi-Pyrénées"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "PE",
+      "code": "66",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Pescara"
+        "Pyrénées-Orientales"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Languedoc-Roussillon"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "PG",
+      "code": "67",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Perugia"
+        "Bas-Rhin"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Elsass"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "PI",
+      "code": "68",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Pisa"
+        "Haut-Rhin"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Elsass"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "PN",
+      "code": "69",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Pordenone"
+        "Rhône"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Rhône-Alpes"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "PO",
+      "code": "70",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Prato"
+        "Haute-Saône"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Franche-Comté"
+      ],
+      "bundeslaenderJetzt": [
+        "Bourgogne-Franche-Comté"
+      ],
       "varianten": []
     },
     {
-      "code": "PR",
+      "code": "71",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Parma"
+        "Saône-et-Loire"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Bourgogne"
+      ],
+      "bundeslaenderJetzt": [
+        "Bourgogne-Franche-Comté"
+      ],
       "varianten": []
     },
     {
-      "code": "PT",
+      "code": "72",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Pistoia"
+        "Sarthe"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Pays de la Loire"
+      ],
+      "bundeslaenderJetzt": [
+        "Pays de la Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "PU",
+      "code": "73",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Pesaro e Urbino"
+        "Savoie"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Rhône-Alpes"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "PV",
+      "code": "74",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Pavia"
+        "Haute-Savoie"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Rhône-Alpes"
+      ],
+      "bundeslaenderJetzt": [
+        "Auvergne-Rhône-Alpes"
+      ],
       "varianten": []
     },
     {
-      "code": "PZ",
+      "code": "75",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Potenza"
+        "Paris"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Île-de-France"
+      ],
+      "bundeslaenderJetzt": [
+        "Île-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "RA",
+      "code": "76",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Ravenna"
+        "Seine-Maritime"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Haute-Normandie"
+      ],
+      "bundeslaenderJetzt": [
+        "Normandie"
+      ],
       "varianten": []
     },
     {
-      "code": "RC",
+      "code": "77",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Reggio Calabria"
+        "Seine-et-Marne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Île-de-France"
+      ],
+      "bundeslaenderJetzt": [
+        "Île-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "RE",
+      "code": "78",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Reggio Emilia"
+        "Yvelines"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Île-de-France"
+      ],
+      "bundeslaenderJetzt": [
+        "Île-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "RG",
+      "code": "79",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Ragusa"
+        "Deux-Sèvres"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Poitou-Charentes"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "RI",
+      "code": "80",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Rieti"
+        "Somme"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Picardie"
+      ],
+      "bundeslaenderJetzt": [
+        "Hauts-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "RM",
+      "code": "81",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Roma Capitale"
+        "Tarn"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Midi-Pyrénées"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "RN",
+      "code": "82",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Rimini"
+        "Tarn-et-Garonne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Midi-Pyrénées"
+      ],
+      "bundeslaenderJetzt": [
+        "Okzitanien"
+      ],
       "varianten": []
     },
     {
-      "code": "RO",
+      "code": "83",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Rovigo"
+        "Var"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
+      "bundeslaenderJetzt": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
       "varianten": []
     },
     {
-      "code": "SA",
+      "code": "84",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Salerno"
+        "Vaucluse"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
+      "bundeslaenderJetzt": [
+        "Provence-Alpes-Côte d’Azur"
+      ],
       "varianten": []
     },
     {
-      "code": "SI",
+      "code": "85",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Siena"
+        "Vendée"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Pays de la Loire"
+      ],
+      "bundeslaenderJetzt": [
+        "Pays de la Loire"
+      ],
       "varianten": []
     },
     {
-      "code": "SO",
+      "code": "86",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Sondrio"
+        "Vienne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Poitou-Charentes"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "SP",
+      "code": "87",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "La Spezia"
+        "Haute-Vienne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Limousin"
+      ],
+      "bundeslaenderJetzt": [
+        "Nouvelle-Aquitaine"
+      ],
       "varianten": []
     },
     {
-      "code": "SR",
+      "code": "88",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Siracusa"
+        "Vosges"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Lothringen"
+      ],
+      "bundeslaenderJetzt": [
+        "Grand Est"
+      ],
       "varianten": []
     },
     {
-      "code": "SS",
+      "code": "89",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Sassari"
+        "Yonne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Bourgogne"
+      ],
+      "bundeslaenderJetzt": [
+        "Bourgogne-Franche-Comté"
+      ],
       "varianten": []
     },
     {
-      "code": "SU",
+      "code": "90",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Sud Sardegna"
+        "Territoire de Belfort"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Franche-Comté"
+      ],
+      "bundeslaenderJetzt": [
+        "Bourgogne-Franche-Comté"
+      ],
       "varianten": []
     },
     {
-      "code": "SV",
+      "code": "91",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Savona"
+        "Essonne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Île-de-France"
+      ],
+      "bundeslaenderJetzt": [
+        "Île-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "TA",
+      "code": "92",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Taranto"
+        "Hauts-de-Seine"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Île-de-France"
+      ],
+      "bundeslaenderJetzt": [
+        "Île-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "TE",
+      "code": "93",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Teramo"
+        "Seine-Saint-Denis"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Île-de-France"
+      ],
+      "bundeslaenderJetzt": [
+        "Île-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "TN",
+      "code": "94",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Trento"
+        "Val-de-Marne"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Île-de-France"
+      ],
+      "bundeslaenderJetzt": [
+        "Île-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "TO",
+      "code": "95",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Torino"
+        "Val-d’Oise"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Île-de-France"
+      ],
+      "bundeslaenderJetzt": [
+        "Île-de-France"
+      ],
       "varianten": []
     },
     {
-      "code": "TP",
+      "code": "971",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Trapani"
+        "Guadeloupe"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Guadeloupe"
+      ],
+      "bundeslaenderJetzt": [
+        "Guadeloupe"
+      ],
       "varianten": []
     },
     {
-      "code": "TR",
+      "code": "972",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Terni"
+        "Martinique"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Martinique"
+      ],
+      "bundeslaenderJetzt": [
+        "Martinique"
+      ],
       "varianten": []
     },
     {
-      "code": "TS",
+      "code": "973",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Trieste"
+        "Französisch-Guayana"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Französisch-Guayana"
+      ],
+      "bundeslaenderJetzt": [
+        "Französisch-Guayana"
+      ],
       "varianten": []
     },
     {
-      "code": "TV",
+      "code": "974",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Treviso"
+        "Réunion"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Réunion"
+      ],
+      "bundeslaenderJetzt": [
+        "Réunion"
+      ],
       "varianten": []
     },
     {
-      "code": "UD",
+      "code": "975",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Udine"
+        "Saint-Pierre und Miquelon"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Saint-Pierre und Miquelon"
+      ],
+      "bundeslaenderJetzt": [
+        "Saint-Pierre und Miquelon"
+      ],
       "varianten": []
     },
     {
-      "code": "VA",
+      "code": "976",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Varese"
+        "Mayotte"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Mayotte"
+      ],
+      "bundeslaenderJetzt": [
+        "Mayotte"
+      ],
       "varianten": []
     },
     {
-      "code": "VB",
+      "code": "977",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Verbano-Cusio-Ossola"
+        "Saint-Barthélemy"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Saint-Barthélemy"
+      ],
+      "bundeslaenderJetzt": [
+        "Saint-Barthélemy"
+      ],
       "varianten": []
     },
     {
-      "code": "VC",
+      "code": "978",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Vercelli"
+        "Saint-Martin"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Saint-Martin"
+      ],
+      "bundeslaenderJetzt": [
+        "Saint-Martin"
+      ],
       "varianten": []
     },
     {
-      "code": "VE",
+      "code": "984",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Metropolitanstadt Venezia"
+        "Französische Süd- und Antarktisgebiete"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Französische Süd- und Antarktisgebiete"
+      ],
+      "bundeslaenderJetzt": [
+        "Französische Süd- und Antarktisgebiete"
+      ],
       "varianten": []
     },
     {
-      "code": "VI",
+      "code": "986",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Vicenza"
+        "Wallis und Futuna"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Wallis und Futuna"
+      ],
+      "bundeslaenderJetzt": [
+        "Wallis und Futuna"
+      ],
       "varianten": []
     },
     {
-      "code": "VR",
+      "code": "987",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Verona"
+        "Französisch-Polynesien"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Französisch-Polynesien"
+      ],
+      "bundeslaenderJetzt": [
+        "Französisch-Polynesien"
+      ],
       "varianten": []
     },
     {
-      "code": "VT",
+      "code": "988",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Viterbo"
+        "Neukaledonien"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Neukaledonien"
+      ],
+      "bundeslaenderJetzt": [
+        "Neukaledonien"
+      ],
       "varianten": []
     },
     {
-      "code": "VV",
+      "code": "989",
       "scope": "region",
       "status": "aktuell",
       "gebiete": [
-        "Vibo Valentia"
+        "Clipperton-Insel"
       ],
       "derivation": null,
       "gueltigAb": null,
       "gueltigBis": null,
-      "bundeslaender": [],
+      "bundeslaender": [
+        "Clipperton-Insel"
+      ],
+      "bundeslaenderJetzt": [
+        "Clipperton-Insel"
+      ],
       "varianten": []
     }
   ]

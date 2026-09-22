@@ -1,9 +1,9 @@
 # KennzeichenDex Data
 
-Maschinenlesbare Liste der Kfz-Unterscheidungszeichen von 24
-europaeischen Laendern: **3509 Zeichen**, je Land eine JSON-Datei.
+Maschinenlesbare Liste der Kfz-Unterscheidungszeichen von 25
+europaeischen Laendern: **3618 Zeichen**, je Land eine JSON-Datei.
 
-*Machine-readable list of vehicle registration prefixes for 24
+*Machine-readable list of vehicle registration prefixes for 25
 European countries. Field names and place names are German; the format is
 described below.*
 
@@ -13,6 +13,7 @@ described below.*
 | --- | --- | --- | ---: | ---: | ---: |
 | Bulgarien | `BG` | [plates/bg.json](plates/bg.json) | 32 | 32 | 0 |
 | Deutschland | `DE` | [plates/de.json](plates/de.json) | 1068 | 1009 | 59 |
+| Frankreich | `FR` | [plates/fr.json](plates/fr.json) | 109 | 109 | 0 |
 | Griechenland | `GR` | [plates/gr.json](plates/gr.json) | 183 | 183 | 0 |
 | Großbritannien | `GB` | [plates/gb.json](plates/gb.json) | 467 | 467 | 0 |
 | Irland | `IE` | [plates/ie.json](plates/ie.json) | 29 | 29 | 0 |
